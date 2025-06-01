@@ -1,0 +1,23 @@
+{
+  "name": "CHIC",
+  "symbol": "CHIC",
+  "description": "dasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdas",
+  "image": "/uploads/92789d16-a58b-43d0-acba-634245502788.jpg",
+  "external_url": "https://twitter.com/http://127.0.0.1:8000/create-tokens http://127.0.0.1:8000/create-tokens https://t.me/http://127.0.0.1:8000/create-tokens",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "/uploads/92789d16-a58b-43d0-acba-634245502788.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3BNjNcdrA8Jyf7sNW7oeSvuHDYnrKWGfme51zVRcJ3c6",
+        "share": 100
+      }
+    ]
+  }
+}
