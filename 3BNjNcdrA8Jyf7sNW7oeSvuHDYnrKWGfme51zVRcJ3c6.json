@@ -1,14 +1,14 @@
 {
   "name": "CHIC",
   "symbol": "CHIC",
-  "description": "dasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdas",
-  "image": "/uploads/92789d16-a58b-43d0-acba-634245502788.jpg",
-  "external_url": "https://twitter.com/http://127.0.0.1:8000/create-tokens http://127.0.0.1:8000/create-tokens https://t.me/http://127.0.0.1:8000/create-tokens",
+  "description": "da",
+  "image": "https://images.seeklogo.com/logo-png/42/1/solana-sol-logo-png_seeklogo-423095.png",
+  "external_url": "https://twitter.com/",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "/uploads/92789d16-a58b-43d0-acba-634245502788.jpg",
+        "uri": "https://images.seeklogo.com/logo-png/42/1/solana-sol-logo-png_seeklogo-423095.png",
         "type": "image/png"
       }
     ],
